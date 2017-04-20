@@ -6,11 +6,9 @@ Artificial Intelligence  - Machine Learning Framework
   
   Python 3.5.x from [python.org](https://www.python.org/downloads/release/python-352/)
   
-  TensorFlow only supports version 3.5.x of Python on Windows. Note that Python 3.5.x comes with the pip3 package manager, which is the   
-  program you'll use to install TensorFlow.
+  TensorFlow only supports version 3.5.x of Python on Windows. Note that Python 3.5.x comes with the pip3 package manager, which is the program you'll use to install TensorFlow.
 
-  To install TensorFlow, start a terminal. Then issue the appropriate pip3 install command in that terminal. To install the CPU-only 
-  version of TensorFlow, enter the following command:
+  To install TensorFlow, start a terminal. Then issue the appropriate pip3 install command in that terminal. To install the CPU-only version of TensorFlow, enter the following command:
   
   ```
   C:\> pip3 install --upgrade tensorflow
